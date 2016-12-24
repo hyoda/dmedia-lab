@@ -19,5 +19,3 @@ It the first half of this chapter, we'll explore the history of JavasScript and 
 
 자바스크립트가 진화하고 그 중요성이 커짐에 따라 코드를 구성하는 데 있어 엄격한 방법을 적용할 필요성도 따라서 증가했다.
 As JavaScript has evolved and grown in importance, the need to apply rigorous methods to its contstruction has also grown.
-
-
