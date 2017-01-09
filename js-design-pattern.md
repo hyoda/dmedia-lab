@@ -42,3 +42,5 @@ The road to JavaScript
 우리는 언어가 처음 어떻게 시작됐는지 알지 못한다.
 We'll never know how language first came into being.
 
+제사 의식에서 만들어진 일련의 으르렁거리는 소리에서 서서히 진화했을까?
+Did it slowly evolve from a series of grunts and guttural sounds made during grooming rituals?
