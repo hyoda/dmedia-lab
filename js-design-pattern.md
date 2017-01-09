@@ -25,3 +25,4 @@ As JavaScript has evolved and grown in importance, the need to apply rigorous me
 Design pattern can be a very useful tool to assist in developing maintanable code. 
  
 후반부에서는 디자인 패턴의 이론을 살펴본다.
+The second half of the chapter will be dedicated to the theory of design patterns.
