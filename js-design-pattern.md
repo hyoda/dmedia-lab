@@ -36,11 +36,27 @@ The topics covered in this chapter are:
 * 안티패턴
 * Antipatterns
 
-## 자바스크립트의 역사
-The road to JavaScript
+## 자바스크립트의 역사 <Br>The road to JavaScript
 
 우리는 언어가 처음 어떻게 시작됐는지 알지 못한다.
 We'll never know how language first came into being.
 
 제사 의식에서 만들어진 일련의 으르렁거리는 소리에서 서서히 진화했을까?
 Did it slowly evolve from a series of grunts and guttural sounds made during grooming rituals?
+
+어쩌면 어미와 새끼가 서로 의사소통을 하기 위해 시작됐는지도 모른다.
+Perhaps it developed to allow mothers and their offsprings to communicate.
+
+이 두 가지 이론 모두 증명할 수는 없다.
+Both of these are theories, all but impossible to prove.
+
+누구도 그 시기의 조상들을 직접 볼 수 없기 때문이다.
+Nobody was around to observe our ancestors during that important period.
+
+사실 파리 언어 협회는 실험적 증거 부족으로 인해 심도 깊은 연구가 불가능하다고 보고 이 주제에 대한 논의를 중단했다.
+In fact, the general lack of empirical evidence lead the Linguistic Society of Paris to ban further discussions on the topic, seeing it as unsuitable for serious study.
+
+### 초창기<br>The early days
+
+다행히 프로그래밍 언어는 비교적 최근에 개발됐기 때문에 이들의 성장과 변화를 지켜볼 수 있었다.
+Fortunately, programming languages have developed in recent history and we've been able to watch them grow and change.
