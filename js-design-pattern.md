@@ -38,3 +38,7 @@ The topics covered in this chapter are:
 
 ## 자바스크립트의 역사
 ## The road to JavaScript
+
+우리는 언어가 처음 어떻게 시작됐는지 알지 못한다.
+We'll never know how language first came into being.
+
