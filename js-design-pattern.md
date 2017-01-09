@@ -1,5 +1,7 @@
 # 1  <br>재미와 이익을 주는 설계 <br>Designing for Fun and Profit
 
+[file] 9781783987986-MASTERING_JAVASCRIPT_DESIGN_PATTERNS.pdf
+
 자바스크립트는 꽤 오래된 역사를 가지고 있는 진화하는 언어다.  
 JavaScript is an evolving language that has come a long way from its inception. 
  
@@ -22,3 +24,4 @@ As JavaScript has evolved and grown in importance, the need to apply rigorous me
 디자인 패턴은 유지보수가 가능한 코드를 개발하는 데 매우 유용한 도구다. 
 Design pattern can be a very useful tool to assist in developing maintanable code. 
  
+후반부에서는 디자인 패턴의 이론을 살펴본다.
